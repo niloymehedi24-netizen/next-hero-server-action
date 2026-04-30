@@ -5,5 +5,5 @@ export const createATask = async (formData) => {
 
 
 
-    console.log('Adding a task with name',name);
+    console.log('Adding a task with name',formData);
 }
