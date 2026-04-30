@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "title": "Learn Next.js basics",
+    "description": "Study the fundamentals of Next.js including routing, components, and data fetching.",
+    "completed": false,
+    "priority": "High",
+    "dueDate": "2026-05-02"
+  },
+  {
+    "id": 2,
+    "title": "Build a blog app",
+    "description": "Create a full blog application using Next.js with posts, routing, and dynamic pages.",
+    "completed": false,
+    "priority": "Medium",
+    "dueDate": "2026-05-05"
+  },
+  {
+    "id": 3,
+    "title": "Practice Git and GitHub",
+    "description": "Improve version control skills by practicing commits, branches, and pushing to GitHub.",
+    "completed": true,
+    "priority": "Low",
+    "dueDate": "2026-04-28"
+  },
+  {
+    "id": 4,
+    "title": "Prepare for interview",
+    "description": "Revise important concepts, practice coding questions, and prepare for technical interviews.",
+    "completed": false,
+    "priority": "High",
+    "dueDate": "2026-05-01"
+  },
+  {
+    "id": 5,
+    "title": "Fix API fetch errors",
+    "description": "Debug and resolve issues related to API calls, data fetching, and error handling.",
+    "completed": true,
+    "priority": "Medium",
+    "dueDate": "2026-04-29"
+  }
+  ]
